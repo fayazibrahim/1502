@@ -1,0 +1,14 @@
+C:\Users\user\Documents\aww\aww\obj\Debug\netcoreapp3.1\aww.csproj.AssemblyReference.cache
+C:\Users\user\Documents\aww\aww\obj\Debug\netcoreapp3.1\aww.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\aww\aww\obj\Debug\netcoreapp3.1\aww.AssemblyInfoInputs.cache
+C:\Users\user\Documents\aww\aww\obj\Debug\netcoreapp3.1\aww.AssemblyInfo.cs
+C:\Users\user\Documents\aww\aww\obj\Debug\netcoreapp3.1\aww.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\aww\aww\bin\Debug\netcoreapp3.1\aww.exe
+C:\Users\user\Documents\aww\aww\bin\Debug\netcoreapp3.1\aww.deps.json
+C:\Users\user\Documents\aww\aww\bin\Debug\netcoreapp3.1\aww.runtimeconfig.json
+C:\Users\user\Documents\aww\aww\bin\Debug\netcoreapp3.1\aww.runtimeconfig.dev.json
+C:\Users\user\Documents\aww\aww\bin\Debug\netcoreapp3.1\aww.dll
+C:\Users\user\Documents\aww\aww\bin\Debug\netcoreapp3.1\aww.pdb
+C:\Users\user\Documents\aww\aww\obj\Debug\netcoreapp3.1\aww.dll
+C:\Users\user\Documents\aww\aww\obj\Debug\netcoreapp3.1\aww.pdb
+C:\Users\user\Documents\aww\aww\obj\Debug\netcoreapp3.1\aww.genruntimeconfig.cache
